@@ -18,11 +18,10 @@ body {
     flex-direction: column;
     justify-content: right;
     text-align: left;
-    padding-top: 5rem;
+    padding-top: 6rem;
     padding-bottom: 6rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
-    border-radius: 1rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
     background-color: rgb(224, 223, 223);
     
 }
@@ -33,14 +32,17 @@ body {
 
 .login {
     display: flex;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
     justify-content: center;
 }
-.login h1{
+.login h3{
     margin-left: 1rem;
-    margin-top: .8rem;
+    margin-top: 1rem;
 }
 
 .secondDiv {
      background-color: rgb(224, 223, 223);
+}
+.loginSection p {
+    text-align: center;
 }
